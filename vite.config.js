@@ -10,5 +10,5 @@ export default defineConfig({
 		plugins: () => [reactPlugin],
 		format: "es",
 	},
-	base: "/CV-Builder/",
+	base: "/resumify/",
 });
